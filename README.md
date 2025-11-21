@@ -3,7 +3,7 @@
 | Nama  | Yudi Fermana                      |
 | Nim   | 312210321                         |
 | Kelas | TI.22.A.SE.1                      |
-| Tugas | UTS Kecerdasan Buatan             |
+| Tugas | Kecerdasan Buatan             |
 
 # PENDAHULUAN
 
